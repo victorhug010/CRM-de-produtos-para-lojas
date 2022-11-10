@@ -1,2 +1,2 @@
-# CRM-de-produtos-para-lojas
-Aplicação para lojas gerenciar produtos, funcionarios e contas com front e back-end
+Para iniciar basta rodar no terminal do back-end "npm start" e no front-end "ng serve"
+
